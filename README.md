@@ -1,4 +1,4 @@
-# North Chicago Township Home Sale Analysis
+# Northern Chicago Township Home Sale Analysis
 
 ## I. Executive Summary
 This project focuses on investigating the determinants of single-family home sale prices in North Chicago, particularly within affluent neighborhoods like Gold Coast, Magnificent Miles, and Lincoln Park, challenging the traditional emphasis on location by employing a linear regression model on various continuous predictors. The study aims to provide in-depth insights beyond the common mantra of "location, location, location," benefiting prospective homebuyers, sellers, and real estate professionals in understanding the nuanced dynamics affecting property prices in the North Chicago Township.
