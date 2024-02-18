@@ -1,17 +1,14 @@
 # North Chicago Township Home Sale Analysis
 
 ## I. Executive Summary
-
 This project focuses on investigating the determinants of single-family home sale prices in North Chicago, particularly within affluent neighborhoods like Gold Coast, Magnificent Miles, and Lincoln Park, challenging the traditional emphasis on location by employing a linear regression model on various continuous predictors. The study aims to provide in-depth insights beyond the common mantra of "location, location, location," benefiting prospective homebuyers, sellers, and real estate professionals in understanding the nuanced dynamics affecting property prices in the North Chicago Township.
 
 ## II. Data Description
-
 <img width="846" alt="image" src="https://github.com/sallylee0801/Northern-Chicago-Township-Home-Sale-Analysis/assets/121594845/3c517b28-59ef-402c-986a-0355cafcf2dc">
 
 This data consists of 403 single-family homes sold in the North Chicago township of Cook County between 2018 and 2020.
 
 ## III. Exploratively Data Analysis
-
 - Initial analyses revealed a right-skewed distribution of Sale Prices, prompting a transformation to Log Sale Price for alignment with regression model assumptions.
 
 <img width="468" alt="image" src="https://github.com/sallylee0801/Northern-Chicago-Township-Home-Sale-Analysis/assets/121594845/9035892e-f10d-4845-8b1f-fec86358d8bd">
